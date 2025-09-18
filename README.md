@@ -20,7 +20,7 @@ Este repositorio contiene el código y los resultados de un proyecto de analíti
 
 ## Cómo utilizar el repositorio
 1. Descarga o clona este repositorio.
-2. Abre el notebook de tu preferencia (`*.ipynb`) en Google Colab o Jupyter Notebook.
+2. Abre el notebook de tu preferencia (`Notebook.ipynb`) en Google Colab o Jupyter Notebook.
 3. Sube el archivo original `Meteorite_Landings.csv` (o utiliza la versión limpia `Meteorite_Landings_clean.csv`) y sigue las celdas de cada etapa. Los notebooks están comentados y divididos en secciones para facilitar su comprensión.
 4. Reproduce las visualizaciones y ajusta parámetros o preguntas de análisis según tus intereses.
 
